@@ -15,7 +15,7 @@ Step 2 (Install requirements)
 * GET NODE.JS HERE: https://nodejs.org/en/
 * To edit config file you need text editor by choice you can use notepad ++, visual studio code and many more...
 * MY CHOICE IS VSCODE text editor
-* GET SUBLIME HERE: https://code.visualstudio.com/
+* GET VSCODE HERE: https://code.visualstudio.com/
 
 Step 3 (Fill config)
 
